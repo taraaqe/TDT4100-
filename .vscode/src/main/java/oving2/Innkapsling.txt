@@ -1,0 +1,20 @@
+
+Innkapsling går ut på å føre til at tilstanden til Objektet er riktig. Vi tilkaller objektets metoder istedenfor å endre på dens tilstand.
+
+Sette av gyldige tilstander. Sette av regler som vi selv definerer, altså designeren av klassen.
+
+
+Synlighetsmodifikatorer:
+Vi har public som er + og private som er -.
+
+Når vi bruker disse synlighetsmodifikatorene så anngir vi om atributtene skal være synoliggjort eller ikke for andre klasser.
+Styrer tilgjengligheten til selve klassene.
+Det vanligste er private felter og public metoder
+
+Public: Samme klasse, samme pakke (samme package som står overst), superklasse (kommer fem til når vi kommer ved arv), resten av verden (filer som samarbeider.)
+protected: Klasse, pakke, superklasse (arver fra en klasse)
+Ingen modifikator: Klasse og pakke
+Private: Kun klasse
+
+
+Valideringsmetodene er metoder som kan være private vanligvis.
