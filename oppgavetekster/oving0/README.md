@@ -12,7 +12,7 @@ Denne øvingen er valgfri og ikke en del av det tellende øvingsopplegget. Øvin
 
 ### Del 1: Installere JDK og VS Code
 
-For å kunne programmere i Java må du installere Java Development Kit (JDK). Vi kommer til å bruke VS Code som koderedigeringsverktøy i TDT4100.
+For å kunne programmere i Java må du installere Java Development Kit (JDK). Vi kommer til å bruke VS Code som koderedigeringsverktøy i TDT4100. hhjjhj
 
 - Gå inn på [denne siden](https://www.ntnu.no/wiki/x/Fgb6DQ) og følg instruksjonene for å installere JDK og VS Code. Husk å følge instruksjonene for ditt operativsystem.
 
